@@ -4,9 +4,9 @@
 This project is to practise my skills in HTML and CSS. The aim is to create a simple website for a small travel agency.
 
 ## Structure of the project
-- index.html: the main HTML file containing the structure of the website.
+- index.html: the main HTML file containing the structure of the website
 - style.css: CSS file for styling the website
-- script.js: JavaScript file containing code for smooth scrolling on the page
+- lightbox-plus-jquery.min.js: JavaScript file containing code for gallery
 - img: directory containing images for this website
 
 ## Author
