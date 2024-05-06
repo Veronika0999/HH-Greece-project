@@ -21,7 +21,7 @@ h2{
 
 /*Main page*/
 .greece{
-    background-image: url('/assets/img/pexels-pixabay-164041.jpg');
+    background-image: url('../../assets/img/pexels-pixabay-164041.jpg');
     background-size: cover;
     height: 100vh;
     color: #fff;
