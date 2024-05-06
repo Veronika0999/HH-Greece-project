@@ -19,7 +19,7 @@ h3{
 }
 
 .apartman{
-    background-image: url('/assets/img/pexels-axp-photography-18774898.jpg');
+    background-image: url('../../assets/img/pexels-axp-photography-18774898.jpg');
     background-size: cover;
     height: 65vh;
     color: #fff;
