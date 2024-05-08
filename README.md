@@ -19,11 +19,5 @@ git clone https://github.com/Veronika0999/HH-Greece-project.git
   -  styles: CSS files for styling the website.
   -  html: HTML files defining the structure of web pages.
 
-## Author
-Me, Veronika.
-
-## Licence
-This project is created for practice, therefore there is no specific licence.
-
 ## Sources
 - JavaScript code for gallery: https://lokeshdhakar.com/projects/lightbox2/
