@@ -13,10 +13,11 @@ git clone https://github.com/Veronika0999/HH-Greece-project.git
 ```
 
 ## Structure of the project
-- <code>index.html</code>: The main HTML file containing the structure of the website.
-- <code>style.css</code>: CSS file for styling the website.
-- <code>lightbox-plus-jquery.min.js</code>:  JavaScript file containing code for the image gallery.
-- img: Directory containing images for this website.
+- **assets:** This directory contains icons and images used on the website.
+- **src:** Source files of the project
+  -  scripts: JavaScript files.
+  -  styles: CSS files for styling the website.
+  -  html: HTML files defining the structure of web pages.
 
 ## Author
 Me, Veronika.
